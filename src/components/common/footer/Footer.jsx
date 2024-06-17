@@ -12,7 +12,7 @@ const Footer = () => {
             <i className='fa fa-envelope'></i>
             <span> hello@beautiful.com </span> <br />
             <i className='fa fa-headphones'></i>
-            <span> +91 60521488</span>
+            <span> +088 01783546545</span>
           </div>
           <div className='box'>
             <h3>SPORT</h3>
